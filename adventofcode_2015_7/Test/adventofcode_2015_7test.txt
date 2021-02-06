@@ -1,0 +1,11 @@
+123 -> xa
+456 -> ya
+xa AND ya -> d
+xa OR ya -> e
+xa LSHIFT 2 -> f
+ya RSHIFT 2 -> g
+NOT xa -> h
+NOT ya -> i
+h RSHIFT 3 -> j
+NOT j -> k
+8 AND d -> ma
